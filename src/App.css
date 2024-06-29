@@ -3,7 +3,24 @@
     margin-left: 25px;
   }
 
-  .card-img-top{
-    height: 200px;
-    width: 50px;
-  }
+  .rmvCount{
+    background-color: aliceblue;
+    margin: 1px;
+    height: 25px;
+    width: 25px;
+    font-weight: bold;
+}
+
+.addCount{
+    background-color: aliceblue;
+    margin: 1px;
+    height: 25px;
+    width: 25px;
+    font-weight: bold;
+}
+.quantity{
+    border:none;
+    background-color: aliceblue;
+    font-size: 13px;
+    font-weight: bold;
+}
