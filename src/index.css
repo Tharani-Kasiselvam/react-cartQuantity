@@ -1,0 +1,13 @@
+.main{
+ margin : 50px;
+ background-color: azure;
+ width: 70%;
+}
+.row{
+  width: 90%;
+  border-radius: 5px;
+  padding-left: 30px;
+}
+.col{
+  font-size: 12px;
+}
